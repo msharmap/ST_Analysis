@@ -3,7 +3,7 @@ Welcome!
 
 Magnesium alloys are emerging as promising alternatives to traditional orthopedic implant materials thanks to their biodegradability, biocompatibility, and impressive mechanical characteristics. However, their rapid _in-vivo_ degradation presents challenges, notably in upholding mechanical integrity over time. This study investigates the impact of high-temperature thermal processing on the mechanical and degradation attributes of a lean Mg-Zn-Ca-Mn alloy, ZX10. Utilizing cost-efficient characterization methods like X-ray diffraction and optical/scanning electron microscopy, we swiftly examine microstructural changes post-thermal treatment. Employing Pearson correlation coefficient amd LASSO analysis, we unveil the relationship between microstructural properties and critical targets (hardness and corrosion resistance), and determine dominant microstructural factors.
 
-* Any questions or comments please reach out via email
+* For any questions or comments please reach out via email
 to the authors of the paper.
 
 <hr>
