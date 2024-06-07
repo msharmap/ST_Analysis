@@ -26,7 +26,7 @@ If you use the databases or code, please cite the following papers:
 
 Acknowledgment
 ----------------
-Sreenivas Raghuram and Timothy P. Weihs were supported by the National Science Foundation under grant DMR #2320355. Maitreyee Sharma Priyadarshini and Paulette Clancy were supported by the Department of Energy, Office of Science, Basic Energy Sciences, under Award #DE-SC0022305 (formulation engineering of energy materials via multiscale learning spirals). Computing resources were provided by the ARCH high-performance computing (HPC) facility, which is supported by National Science Foundation (NSF) grant number OAC 1920103.
+Sreenivas Raguraman and Timothy P. Weihs were supported by the National Science Foundation under grant DMR #2320355. Maitreyee Sharma Priyadarshini and Paulette Clancy were supported by the Department of Energy, Office of Science, Basic Energy Sciences, under Award #DE-SC0022305 (formulation engineering of energy materials via multiscale learning spirals). Computing resources were provided by the ARCH high-performance computing (HPC) facility, which is supported by National Science Foundation (NSF) grant number OAC 1920103.
 
 <hr>
 
